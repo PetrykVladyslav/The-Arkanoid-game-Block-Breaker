@@ -43,6 +43,6 @@ The main menu and the color change menu are created using the Pygame interface e
 Game Physics:
 The reflection of the ball from the walls, platform and blocks is implemented. Accelerate the ball with each new level.
 
-
+![Image](https://github.com/PetrykVladyslav/The-Arkanoid-game-Block-Breaker-/blob/main/Images/photo.jpg)
 
 Blocks Break is a simple but addictive arcade game with customization elements and increasing difficulty. Due to its flexibility and use of Pygame, the project demonstrates skills in working with game mechanics, graphical interface and interaction logic.
